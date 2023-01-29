@@ -1,2 +1,2 @@
-# M3_Case2
+# M3_Clase2
 intrudccion a diseno con CSS 3
